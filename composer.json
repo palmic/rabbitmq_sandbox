@@ -1,0 +1,15 @@
+{
+	"name": "palmic/rabbitmq_sandbox",
+	"description": "",
+	"minimum-stability": "dev",
+	"authors": [
+		{
+			"name": "Michal Palma",
+			"email": "michal.palma@gmail.com"
+		}
+	],
+
+	"require": {
+		"videlalvaro/php-amqplib": "v2.1.0"
+	}
+}
